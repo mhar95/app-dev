@@ -4,7 +4,6 @@ My first repository
 1. Voice
 2. The Guest
 3. Vagabond
-**italiced**
-1. Pandora
-2. Okja
-3. Peninsula
+4. Pandora
+5. Okja
+6. Peninsula
