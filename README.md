@@ -1,11 +1,7 @@
 # app-dev
 My first repository
-==Voice==
-'''
-{
-"The Guest"
-}
-'''
+|Voice|
+---The Guest
 ~~Vagabond~~
 -[x]Pandora
 **Okja**
