@@ -1,8 +1,8 @@
 # app-dev
 My first repository
-~~Voice~~
+:joy:Voice
 |The Guest|
-|Vagabond|
+~~Vagabond~~
 -[x]Pandora
 **Okja**
 >Peninsula
